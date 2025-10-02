@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://github.com/Veereshp984/Blog-preview-card)
+- [Live Site URL](https://veereshp984.github.io/Blog-preview-card/)
 
 ---
 
@@ -89,9 +89,7 @@ Users should be able to:
 ---
 
 ## Author
-
-- Website – [Veeresh](https://your-site.com)
-- Frontend Mentor – [@veeresh](https://www.frontendmentor.io/profile/veeresh)
+- Frontend Mentor – [@veeresh](https://www.frontendmentor.io/profile/Veereshp984)
 - Twitter – [@veeru_rp](https://x.com/veeru_rp)
 
 ---
